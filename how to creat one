@@ -1,7 +1,29 @@
 #FOR BEGINNER
+1、CREATE FILES
 mode--project
  click-app
       -src
       -main
       -java
 new a java class under the java
+
+2、ABOUT SETTINGS
+important ones(for start-me)
+app:
+
+libs:
+      All the jars(it's like zips) put in here
+
+res:
+     drawable: pictures
+     layout:布局
+     values:strings
+
+AndroidManifest.xml:
+      a place for registing(程序中定义的四大组件都要在这个文件下注册)
+      announcements(可在这个文件添加程序的权限声明)
+
+proguard-rules.pro
+      encryption(加密)
+      
+3、A    
