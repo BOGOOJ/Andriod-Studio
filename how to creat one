@@ -1,0 +1,7 @@
+#FOR BEGINNER
+mode--project
+ click-app
+      -src
+      -main
+      -java
+new a java class under the java
